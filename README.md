@@ -10,4 +10,4 @@ Extends the TYPO3 tstemplate module for detailed viewing of current TS
 
 ## Git repository
 
-https://bitbucket.org/jokumer/TYPO3-xtstemplate
+https://github.com/jokumer/TYPO3-xfilelist
